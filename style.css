@@ -1,0 +1,35 @@
+ul{
+    display: flex;
+    gap: 155px;
+    margin: 100px 30vw;
+    
+    list-style: none;
+}
+li{
+    font-size: 25px;
+    cursor: pointer;
+}
+.cardbox{
+    display: flex;
+    margin: 10px auto;
+    padding: 25px;
+    width: 80%;
+    border: 2px solid black;
+}
+.card{
+    width: 100px;
+    height: 100px;
+    margin: 10px;
+}
+.red{
+    background-color: red;
+}
+.green{
+    background-color: green;
+}
+.blue{
+    background-color: blue;
+}
+.black{
+    background-color: black;
+}
